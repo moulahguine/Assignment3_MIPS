@@ -45,10 +45,14 @@ These programs are written for [MARS](http://courses.missouristate.edu/KenVollma
 ## 📸 Screenshots
 
 Images of the output are available in the `images/` directory:
-- `Screenshot 2025-05-11 111844.png`
-- `Screenshot 2025-05-11 121148.png`
-- `Screenshot 2025-05-11 130100.png`
+### Output of `homework-3.asm`
 
+![Double of 15](images/Screenshot%202025-05-11%20111844.png)
+
+### Output of `homework-3-2.asm`
+
+![Expression Result](images/Screenshot%202025-05-11%20121148.png)
+![Final Result](images/Screenshot%202025-05-11%20130100.png)
 ---
 
 ## 📚 Topics Covered
